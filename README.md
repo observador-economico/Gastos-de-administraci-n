@@ -1,1 +1,2 @@
-# Gastos-de-administraci-n
+# Gastos-de-administración
+Los principales componentes del costo de producción pueden agruparse en tres grandes conceptos a saber: materias primas, mano de obra directa y gastos generales de administración. Es evidente que proyectos no industriales no tendrán costos por este motivo señalando como una individualidad propia de los mismos, según A. Vidaurre, su carácter de “activables” o sea, se incorporan al valor de los productos producidos y pasan a formar parte del valor al cual se contabilizan estos productos en tanto permanezcan como inventarios. 
